@@ -1,0 +1,17 @@
+C:\Users\wangzhiwei\Desktop\yanbin\编程开发\TMCurve\TMCurve\bin\Debug\MySql.Data.dll
+C:\Users\wangzhiwei\Desktop\yanbin\编程开发\TMCurve\TMCurve\obj\Debug\TMCurve.ExportData.resources
+C:\Users\wangzhiwei\Desktop\yanbin\编程开发\TMCurve\TMCurve\obj\Debug\TMCurve.MainForm.resources
+C:\Users\wangzhiwei\Desktop\yanbin\编程开发\TMCurve\TMCurve\obj\Debug\TMCurve1.0.csproj.GenerateResource.Cache
+C:\Users\wangzhiwei\Desktop\TM4.4\yanbin\编程开发\TMCurve\TMCurve\bin\Debug\TMCurve.exe.config
+C:\Users\wangzhiwei\Desktop\TM4.4\yanbin\编程开发\TMCurve\TMCurve\obj\Debug\TMCurve.exe
+C:\Users\wangzhiwei\Desktop\TM4.4\yanbin\编程开发\TMCurve\TMCurve\obj\Debug\TMCurve.pdb
+C:\Users\wangzhiwei\Desktop\yanbin\编程开发\TMCurve\TMCurve\bin\Debug\TMCurve2.0.exe.config
+C:\Users\wangzhiwei\Desktop\yanbin\编程开发\TMCurve\TMCurve\bin\Debug\TMCurve2.0.exe.manifest
+C:\Users\wangzhiwei\Desktop\yanbin\编程开发\TMCurve\TMCurve\bin\Debug\TMCurve2.0.application
+C:\Users\wangzhiwei\Desktop\yanbin\编程开发\TMCurve\TMCurve\bin\Debug\TMCurve2.0.exe
+C:\Users\wangzhiwei\Desktop\yanbin\编程开发\TMCurve\TMCurve\bin\Debug\TMCurve2.0.pdb
+C:\Users\wangzhiwei\Desktop\yanbin\编程开发\TMCurve\TMCurve\obj\Debug\TMCurve2.Properties.Resources.resources
+C:\Users\wangzhiwei\Desktop\yanbin\编程开发\TMCurve\TMCurve\obj\Debug\TMCurve2.0.exe.manifest
+C:\Users\wangzhiwei\Desktop\yanbin\编程开发\TMCurve\TMCurve\obj\Debug\TMCurve2.0.application
+C:\Users\wangzhiwei\Desktop\yanbin\编程开发\TMCurve\TMCurve\obj\Debug\TMCurve2.0.exe
+C:\Users\wangzhiwei\Desktop\yanbin\编程开发\TMCurve\TMCurve\obj\Debug\TMCurve2.0.pdb
